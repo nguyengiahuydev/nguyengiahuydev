@@ -1,76 +1,157 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=200&section=header&text=Nguy%E1%BB%85n%20Gia%20Huy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Continuous%20Learner&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Gia+Huy+%F0%9F%91%8B;Building+meaningful+software+step+by+step+%F0%9F%9A%80;Full-Stack+Web+%26+Automation+Development;Always+eager+to+learn+new+technologies+%E2%9CA8" alt="Typing SVG" />
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Nguyen Gia Huy - Header Banner" />
 </div>
 
 <br/>
 
-### 👨‍💻 Về bản thân
+### ⚡ About Me
 
-```javascript
-const giaHuy = {
-    pronouns: "He/Him",
-    location: "Vietnam 🇻🇳",
-    role: "Software Developer",
-    currentFocus: ["Web Full-stack Development", "API & Proxy Services", "Automation Tools"],
-    techStack: ["TypeScript", "PHP", "Python", "JavaScript", "React", "Node.js"],
-    currentGoal: "Nâng cao tư duy kiến trúc phần mềm và hoàn thiện các sản phẩm thực chiến chất lượng"
-};
-```
+Software Developer based in Vietnam with a focus on building scalable web applications, API services, and automated workflow tooling. Passionate about clean code, modular architecture, and high-performance system design.
 
-- 🔭 Đang phát triển các dự án thực tế về Web Full-stack, Proxy và Automation Tools.
-- 🌱 Luôn tìm kiếm giải pháp tối ưu, chú trọng clean code và trải nghiệm người dùng.
-- 💡 Đam mê tìm hiểu công nghệ mới, nghiên cứu sâu về hiệu năng và bảo mật hệ thống.
-- 🤝 Sẵn sàng kết nối, chia sẻ kinh nghiệm và hợp tác trong các dự án công nghệ mã nguồn mở.
+- 🔭 **Focus Areas:** Full-Stack Web Development, Custom Proxy Services, and Automation Pipelines.
+- 🛠 **Core Stack:** TypeScript, Node.js, Python, PHP, React, and MySQL.
+- 💡 **Philosophy:** Building reliable software through simple abstractions, robust typing, and practical architecture.
+- 🌱 **Continuous Learning:** Exploring distributed systems, concurrency models, and low-latency network protocols.
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ
+### 🛠️ Technical Toolkit
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,html,css,tailwind,react,nodejs,express,mysql,postgres,mongodb,git,github,docker,linux,vscode&perline=9&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Category</th>
+      <th align="left" width="72%">Technologies (Vector SVGs)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frontend &amp; UI</b></td>
+      <td>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend &amp; Runtime</b></td>
+      <td>
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases &amp; DevOps</b></td>
+      <td>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools &amp; Environment</b></td>
+      <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="34" height="34" style="margin-right: 10px; vertical-align: middle;"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 📊 Hoạt động GitHub
+### 🚀 Featured Repositories
+
+| Repository | Description | Primary Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [**`web-proxy`**](https://github.com/nguyengiahuydev/web-proxy) | High-performance proxy gateway handling dynamic request forwarding and routing | `TypeScript` `Node.js` | 🟢 Active |
+| [**`update`**](https://github.com/nguyengiahuydev/update) | Automation scripts and task synchronization utilities | `Python` | 🟢 Maintained |
+| [**`tienganh`**](https://github.com/nguyengiahuydev/tienganh) | Web-based interactive vocabulary and language practice portal | `HTML5` `CSS3` `JavaScript` | 🟢 Active |
+
+---
+
+### 📊 Engineering Activity
 
 <div align="center">
   <a href="https://github.com/nguyengiahuydev">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nguyengiahuydev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyengiahuydev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nguyengiahuydev&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyengiahuydev&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/nguyengiahuydev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyengiahuydev&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyengiahuydev&theme=github-dark-blue&hide_border=false" alt="Contribution Streak" />
   </a>
 </div>
 
 ---
 
-### 📬 Kết nối với mình
+### 📬 Connect
 
 <div align="center">
-  <a href="mailto:contact@nguyengiahuy.dev">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:nguyengiahuydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nguyengiahuydev@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/nguyengiahuydev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nguyengiahuydev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-@nguyengiahuydev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⭐️ Profile được thiết kế với phong cách Minimalist Dark Theme. Cảm ơn bạn đã ghé thăm!</sub>
 </div>
